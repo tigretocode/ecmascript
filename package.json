@@ -19,5 +19,7 @@
   "bugs": {
     "url": "https://github.com/tigretocode/ecmascript/issues"
   },
-  "homepage": "https://github.com/tigretocode/ecmascript#readme"
+  "homepage": "https://github.com/tigretocode/ecmascript#readme",
+  "type": "module"
 }
+
